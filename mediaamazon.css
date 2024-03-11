@@ -1,0 +1,423 @@
+@media screen and (min-width:320px) and (max-width:570px) {
+    
+    header{
+        flex-direction: column;
+    }
+    .locate{
+        width: 209px !important;
+        padding: 0px 10px !important;
+    }
+    .searchbar2{
+        flex-direction: column !important;
+    }
+    .searchbar #lo{
+        top: 35px !important;
+        left: 80px !important;
+        font-size: 17px !important;
+    }
+    .searchbar span #lop{
+        top: 37px !important;
+        left: 57px !important;
+        font-size: 20px !important;
+        padding: 0px !important;
+    }
+    .searchbar select{
+        height: unset !important;
+        width: 25% !important;
+    }
+    .searchbar1 input {
+        margin: 10px 0px 0px -57px !important;
+        width: unset !important;
+        height: 28px !important;
+    }
+    .searchbar1 select{
+        height: unset !important;
+        width: unset !important;
+    }
+    .signin ul li {
+        margin: 4px 9px !important;
+        padding: 0px !important;
+    }
+    .signin ul li i{
+        font-size: 23px !important;
+    }
+    .all{
+        flex-direction: column;
+        padding: 0px !important;
+        height: unset !important;
+    }
+    .all1 ul{
+        flex-direction: column;
+    }
+    .window1 {
+        flex-direction: column;
+        top: -66px !important;
+        position: unset !important;
+    }
+    .window2image {
+        margin: 17px 8px 3px 0px !important;
+        width: unset !important;
+        height: 116px !important;
+    }
+    .window2{
+        flex-direction: column !important;
+        width: unset !important;
+        height: unset !important;
+    }
+    .window2 a{
+        margin-top: 20px !important;
+    }
+    .deal2{
+
+        flex-direction: column;
+    }
+    .deal {
+        
+        margin: -539px 0px 0px 0px !important;
+        
+            width: 100%;
+            background-color: white;
+            
+            position: relative;
+    
+    }
+    .deal1{
+        padding-top: 21px !important;
+    }
+    .newarraivals{
+        margin: 37px 0px 0px !important;
+    }
+    .newarraivals2{
+        flex-direction: column;
+    }
+    .newarraivals1 h2{
+        font-size: 19px !important;
+    }
+    .newarraivals1{
+        flex-direction: column;
+    }
+    .newimage1, .newimage2, .newimage3, .newimage4, .newimage5, .newimage6 {
+        width: 269.99px !important; 
+        height: 128.26px !important;
+        margin: 0px 5px !important;
+        
+    }
+
+    .flight1 {
+        width: unset !important; 
+        margin-left: 0px !important;
+        flex-direction: column;
+        margin-top: 20px !important;
+
+    }
+    .flight2 {
+        width: unset !important;
+        height: unset !important;
+        flex-direction: column;
+       
+        padding: 0px !important;
+        background-color: white;
+        margin: 17px 0px 0px 0px !important;
+    }
+    .flight2 h1 {
+        padding: 10px 0px 10px 16px !important;
+       
+    }
+    .flightimage {
+        width: unset !important;
+        height: 183.21px !important;
+        padding: 0px !important;
+        margin: 7px 0px 27px 16px !important;
+    }
+    .flightimage1 {
+        width: 152.02px !important;
+        margin: 0px 0px 0px 68px !important;
+        height: unset !important;
+    }
+    .flight2 span{
+        margin: 20px 0px 20px 10px;
+    }
+    .flight2 a{
+        margin: 10px 0px 16px 15px !important;
+    }
+    .flightimage3 {
+        width: unset !important;
+        height: unset !important;
+        margin-top: 0px !important;
+    }
+    .minitv {
+        flex-direction: column;
+        width: unset !important;
+        margin-left: 0px !important;
+    }
+    .amazonlive {
+        width: unset !important;
+        height: unset !important;
+        margin: 20px 0px 0px 0px !important;
+    }
+    .amazonlive1{
+        flex-direction: column !important;
+    }
+    .amazonlive2{
+        flex-direction: column;
+    }
+    .amazonlive1 a{
+        margin-left: -134px !important;
+    }
+    .live iframe{
+        width: 315px !important;
+        height: 255px !important;
+    }
+
+    .amazonblock1{
+        width: unset !important;
+
+        height: unset !important;
+    }
+    .amazonblockimage{
+        width: unset !important;
+        height: unset !important;
+    }
+    .wrist1{
+        flex-direction: column;
+    }
+    .wrist2{
+        width: unset !important;
+        padding: 0px 15px 22px 71px !important;
+    }
+
+    .container1 {
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+        padding: 23px 0px 18px 0px !important
+
+    }
+    .col{
+        margin: 10px 6px !important;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .userlinks ul{
+        padding: 15px 0px !important;
+    }
+    .last{
+        padding: 10px 5px !important;
+    }
+    .row1{
+        flex-direction: column;
+    }
+    .foot ul{
+        flex-direction: column;
+    }
+    .foot ul li{
+        margin: 0px 0px 4px 0px !important;
+    }
+    .foot{
+        padding-top: 10px !important;
+    }
+}
+
+
+/* mobile responsive completed************************************************************************ */
+
+
+@media screen and (min-width:570px) and (max-width:1024px) {
+
+   header{
+    flex-direction: column;
+   }
+   .logoimage{
+    height: 39px !important;
+   }
+   .locate{
+    width: unset !important;
+    height: unset !important;
+    padding: 3px 10px !important;
+   }
+   .searchbar select{
+    width: 41% !important;
+        margin: 0px 0px 32px 11px !important;
+   }
+   .searchbar1 input {
+    margin: 0px 0px 31px -99px !important;
+    width: 757% !important;
+    height: 39px !important;
+}
+.all{
+    flex-direction: column;
+    height: unset !important;
+    padding: 11px 33px 0px 17px !important;
+}
+.all1 ul{
+    flex-wrap: wrap !important;
+}
+
+.deal2{
+    flex-direction: column;
+}
+.newarraivals{
+    margin: 29px 0px 20px 0px !important;
+}
+.newarraivals1{
+    flex-direction: column;
+}
+.newarraivals2{
+    flex-wrap: wrap !important;
+}
+.flight1{
+    margin: 0px 0px 0px 0px !important;
+    flex-direction: column;
+    width: unset !important;
+}
+.flight2{
+    width: unset !important;
+    height: unset !important;
+    flex-direction: column;
+    padding: 33px 0px 23px 20px !important;
+    flex-wrap: nowrap;
+}
+.flightimage{
+    height: 324.21px !important;
+    margin: 15px 0px 27px 7px !important;
+    width: 512.88px !important;
+
+}
+.flightimage1{
+    width: 515.02px !important;
+    margin: 0px 0px 0px 0px !important;
+    height: unset !important;
+}
+.flightimage3 {
+    width: 517px !important;
+    height: unset !important;
+    margin: 0px 0px 0px 0px !important;
+}
+.minitv {
+   flex-direction: column;
+    width: unset !important;
+    margin: 0px 0px 0px 0px !important;
+}
+.amazonlive{
+    width: unset !important;
+    height: unset !important;
+    margin: 20px 0px 0px 0px !important;
+    padding: 0px 0px 0px 25px !important;
+}
+.amazonlive1  {
+    padding: 5px 0px !important;
+    flex-direction: column !important;
+    align-items: start !important;
+}
+.amazonlive1 a{
+    margin-left: 3px !important;
+}
+.amazonlive2 {
+    flex-direction: column;
+}
+.amazonblockimage{
+    width: 145.4px !important;
+    height: unset !important;
+}
+.amazonblock1{
+    width: unset !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    display: flex !important;
+}
+.live iframe{
+    width: 500px !important;
+    height: 500px !important;
+}
+.wrist1{
+    flex-direction: column;
+}
+.wrist2{
+    width: unset !important;
+}
+.wristimage{
+    width: 400px !important;
+    height: 300px !important;
+}
+.wristimage img{
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+.container1{
+    margin: 0px 0px 0px -139px !important;
+    padding: 40px 13px 40px 99px !important;
+}
+.col{
+    margin: 0px 10px !important;
+}
+.userlinks ul {
+    padding: 0px !important;
+}
+.last{
+    padding: 30px 0px !important;
+}
+.foot ul li{
+    margin: 10px 30px !important;
+}
+.window1{
+    flex-direction: column;
+    flex-wrap: nowrap !important;
+    height: unset !important;
+    top: -41px !important;
+}
+.window2 {
+    width: unset !important;
+    height: unset !important;
+    margin: 0px 0px 0px 0px !important;
+    flex-direction: column !important;
+    flex-wrap: nowrap !important;
+}
+.window2image{
+    margin: 0px 0px 0px 0px !important;
+    height: unset !important;
+    width: unset !important;
+}
+.deal{
+    margin: 2016% 0 0 0 !important;
+}
+.searchbar1{
+    position: relative !important;
+}
+.searchbar1 select{
+    position: absolute;
+    top: 0px !important;
+    left: 320px !important;
+    width: unset !important;
+}
+.searchbar span #lop{
+    left: 425px !important;
+    z-index: 1;
+    top: 1px !important;
+}
+.searchbar #lo {
+    left: 463px !important;
+    font-size: 27px !important;
+    top: 1px !important;
+    z-index: 1;
+}
+.signin ul{
+    margin-top: -39px !important;
+}
+.all .all2 p {
+    padding-top: 22px !important;
+}
+.signpad{
+    top: 5px !important;
+    margin-left: 67px !important;
+    width: 47% !important;
+}
+.all1 a{
+    padding: 0px 10px !important;
+}
+.allmenu{
+    top: 10px !important;
+}
+
+
+}
